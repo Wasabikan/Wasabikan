@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wasabikan
-- 🌱 I’m currently learning: python
+- 🌱 I’m currently learning: Python
   
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@wasabi/30-nites-of-code)  
