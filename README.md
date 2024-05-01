@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wasabikan
+- 👋 Hi, I’m Wasabi
 - 🌱 I’m currently learning: Python
   
 ## #30NitesOfCode:
