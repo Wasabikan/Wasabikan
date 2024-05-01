@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Wasabi
-- 🌱 I’m currently learning: Python
+## Hi👋!
+- I’m Wasabi
+- I’m currently learning: Python
   
 #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@wasabi/30-nites-of-code)  
   ![@wasabi #30NitesOfCode](https://www.codedex.io/api/petStatus?user=wasabi)
